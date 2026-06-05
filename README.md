@@ -315,6 +315,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | Repo | Why It Is Useful |
 | --- | --- |
 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 中文智能体系统教程，从零开始构建智能体。 |
+| [ranxi2001/zero2Agent](https://github.com/ranxi2001/zero2Agent) | 面向大厂 Agent 研发岗位求职的中文 Agent 工程教程，覆盖技术路线、框架拆解、项目实践和面试八股。 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need，从 0 到 1 学 Claude Code-like agent harness。 |
 | [shareAI-lab/claw0](https://github.com/shareAI-lab/claw0) | 从 0 到 1 学 OpenClaw-like gateway，10 个渐进章节覆盖 agent loop 到 concurrency。 |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 研究本地个人 agent、skills、长运行任务、系统工具和权限边界。 |
