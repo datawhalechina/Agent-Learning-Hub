@@ -245,7 +245,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 
 | Layer | Study These | Learn |
 | --- | --- | --- |
-| Build From Scratch | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code), [claw0](https://github.com/shareAI-lab/claw0), [hello-agents](https://github.com/datawhalechina/hello-agents) | agent loop、tool registry、session、context compaction、gateway、trace、subagents。 |
+| Build From Scratch | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code), [claw0](https://github.com/shareAI-lab/claw0), [hello-agents](https://github.com/datawhalechina/hello-agents), [Learn-OpenClaw](https://github.com/lasywolf/Learn-OpenClaw) | agent loop、tool registry、session、context compaction、gateway、trace、subagents；Learn-OpenClaw 适合 9 小时速通五大模块。 |
 | Personal / Always-On Agents | [OpenClaw](https://github.com/openclaw/openclaw), [Hermes Agent](https://github.com/NousResearch/hermes-agent), [CyberClaw](https://github.com/ttguy0707/CyberClaw) | 长运行、skills、记忆、消息入口、权限、安全审计。 |
 | Coding Agents | [Claude Code](https://code.claude.com/docs/en/overview), [OpenAI Codex](https://github.com/openai/codex), [OpenCode](https://github.com/opencode-ai/opencode), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [SWE-agent](https://github.com/SWE-agent/SWE-agent), [pi](https://github.com/earendil-works/pi) | 真实代码库编辑、shell、测试、sandbox、PR 工作流。 |
 | Agent Harness / SuperAgent Runtime | [DeerFlow](https://github.com/bytedance/deer-flow), [LangGraph](https://langchain-ai.github.io/langgraph/) | 长任务执行、sandbox、memory、skills、subagents、message gateway、trace。 |
@@ -315,6 +315,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | Repo | Why It Is Useful |
 | --- | --- |
 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 中文智能体系统教程，从零开始构建智能体。 |
+| [lasywolf/Learn-OpenClaw](https://github.com/lasywolf/Learn-OpenClaw) | 面向零基础/求职的 Agent 速通教程，9 小时覆盖 Node→RAG→Tool→Memory→Multi-Agent 五大模块。 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need，从 0 到 1 学 Claude Code-like agent harness。 |
 | [shareAI-lab/claw0](https://github.com/shareAI-lab/claw0) | 从 0 到 1 学 OpenClaw-like gateway，10 个渐进章节覆盖 agent loop 到 concurrency。 |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 研究本地个人 agent、skills、长运行任务、系统工具和权限边界。 |
