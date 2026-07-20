@@ -326,6 +326,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 2.0 是通用 long-horizon SuperAgent harness，适合学习沙箱、memory、skills、subagents、message gateway 和产物生成；Deep Research 代码看 1.x 分支。 |
 | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | 综合教程库，适合横向比较 ReAct、Plan-and-Execute、Multi-Agent 等实现方式。 |
 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | production-grade agent 教程库，适合补工程化组件。 |
+| [hardness1020/awesome-agent-architecture](https://github.com/hardness1020/awesome-agent-architecture) | 逐节拆解现代 agent harness：loop engineering、tools、permissions、context、memory、evaluation，覆盖 Claude Code、Hermes Agent 等现代 agent 系统（持续新增），附可运行 Python 示例（英/繁中/简中三语）。 |
 | [huggingface/smolagents](https://github.com/huggingface/smolagents) | 轻量 CodeAgent 风格框架，适合研究“让模型写代码执行动作”的范式。 |
 | [openai/codex](https://github.com/openai/codex) | OpenAI 开源 coding agent CLI，适合研究 sandbox、approval、CLI 产品形态。 |
 | [opencode-ai/opencode](https://github.com/opencode-ai/opencode) | 终端优先的开源 coding agent，适合对照 Claude Code / Codex。 |
