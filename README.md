@@ -306,6 +306,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | [SWE-bench](https://arxiv.org/abs/2310.06770) | 真实 GitHub issue 修复评测。 |
 | [GAIA](https://arxiv.org/abs/2311.12983) | 通用 AI 助手基准，测推理、多模态、工具使用；人类 92% vs GPT-4 15%，差距揭示 agent 能力上限。 |
 | [OSWorld](https://arxiv.org/abs/2404.07972) | 真实操作系统环境下的多模态 agent benchmark，覆盖 Ubuntu / Windows / macOS；适合 Stage 6 计算机操作 agent 学习。 |
+| [ClawBench](https://arxiv.org/abs/2604.08523) | 面向真实在线网页任务的 browser agent benchmark；283 个任务配合隔离运行、最终请求拦截与五层执行轨迹，适合学习可复现评测和失败分析。 |
 | [τ-bench](https://arxiv.org/abs/2406.12045) | 测量 tool-agent-user 三方动态交互；GPT-4o 在真实场景成功率不足 50%，pass^8 不足 25%，是评估 agent 可靠性的重要参照。 |
 | [SWE-agent](https://arxiv.org/abs/2405.15793) | 软件工程 agent 的 agent-computer interface。 |
 | [Dive into Claude Code](https://arxiv.org/abs/2604.14228) | 从系统设计角度分析 Claude Code 这类 coding agent 的 harness、权限、压缩和扩展机制。 |
