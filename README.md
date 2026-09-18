@@ -341,6 +341,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 系统化入门课程。 |
 | [jjyaoao/HelloAgents](https://github.com/jjyaoao/HelloAgents) | 基于 OpenAI 原生 API 的生产级多智能体框架，覆盖 ToolResponse、上下文工程、会话持久化、子代理、TraceLogger 等。 |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript 写的 AI agent toolkit，含 pi-coding-agent CLI、pi-agent-core 运行时、pi-ai（统一多提供商 LLM API）、pi-tui（终端 UI 库），支持 Slack 机器人和 vLLM pods。 |
+| [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | 把 agent 与模型厂商之间的真实流量（prompt、工具调用、响应、原始字节）原样录到本地 trace，之后可完全离线重放；用来练 Stage 7 的「会看 trace」和「用回归测试防止能力退化」——把一次失败的 agent 运行当成可复现样本，或把同一份录像 fork 到另一个模型上重跑。 |
 
 ### Thoughtful Blogs
 
