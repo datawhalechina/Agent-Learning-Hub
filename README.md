@@ -188,6 +188,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 - [LangSmith](https://docs.smith.langchain.com/)
 - [AgentBench](https://arxiv.org/abs/2308.03688)
 - [SWE-bench](https://arxiv.org/abs/2310.06770)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)
 
 产出：一个 agent eval 表格，至少包含 20 个任务、期望结果、实际结果、失败分类。
 
