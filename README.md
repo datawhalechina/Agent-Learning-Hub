@@ -310,6 +310,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | [SWE-agent](https://arxiv.org/abs/2405.15793) | 软件工程 agent 的 agent-computer interface。 |
 | [Dive into Claude Code](https://arxiv.org/abs/2604.14228) | 从系统设计角度分析 Claude Code 这类 coding agent 的 harness、权限、压缩和扩展机制。 |
 | [AI Harness Engineering](https://arxiv.org/abs/2605.13357) | 把 harness 作为 agent 能力来源来研究。 |
+| [The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents](https://ssrn.com/abstract=7186738) | 以 agent loop 为分析单位的综述，覆盖控制策略、终止与步数预算、验证与错误恢复、skills 和 harness。 |
 | [Configuring Agentic AI Coding Tools](https://arxiv.org/abs/2602.14690) | 对 Claude Code、Codex、Gemini、Cursor 等 coding tools 的配置机制分析。 |
 | [Your Agent, Their Asset](https://arxiv.org/abs/2604.04759) | OpenClaw 等本地 agent 的真实安全风险分析。 |
 
