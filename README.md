@@ -86,6 +86,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 文档理解型 RAG 引擎，适合学 ingestion、chunking、retrieval、grounded answer。 |
 | [mem0](https://github.com/mem0ai/mem0) | 记忆层组件，适合学如何给 agent 加长期 memory。 |
 | [Letta](https://github.com/letta-ai/letta) | 面向 stateful agents 的 memory/context 平台，适合学上下文管理。 |
+| [deja-vu](https://github.com/vshulcz/deja-vu) | 跨 43 个编码 Agent（Claude Code、Codex、Cursor 等）的本地会话记忆与 `/compact` 恢复引擎，适合学纯词法 BM25 检索（LongMemEval-S 97.2% R@5）与 MCP/Hooks 上下文注入。 |
 
 产出：一个资料研究助手，输入主题后自动搜索、筛选、总结并输出引用链接。
 
