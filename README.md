@@ -238,6 +238,7 @@ Agent 领域变化很快。当前更值得投入的不是老式“角色扮演�
 | [Gemini Code Execution](https://ai.google.dev/gemini-api/docs/code-execution) | Gemini 代码执行工具。 |
 | [Google Agent Development Kit](https://google.github.io/adk-docs/) | Google 的 agent 开发框架。 |
 | [Model Context Protocol](https://modelcontextprotocol.io/) | Agent 连接工具和数据源的重要协议。 |
+| [ClickHouse Loom teaching labs](https://clickhouse.github.io/loom/guides/teaching/) | Self-run Python labs for saving and revising agent memory and retrieving documents with citations. |
 
 ### Project Map
 
